@@ -12,9 +12,8 @@
  
  🔭 I’m currently working on **my skills**
  
- 🌱 I’m currently learning **React, Docker**
+ 🌱 I’m currently learning **Linux, Multithreading**
 
-💬 Ask me about **Java Script, PostgreSQL, ...**
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**-->
 
@@ -37,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vim,vscode,github,git,figma,tailwindcss,linux" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,c++" /><br>
 </div>
 
 <br/>
